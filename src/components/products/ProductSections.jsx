@@ -42,7 +42,7 @@ export function ProductCapabilities({ capabilities }) {
               <span className="product-icon-circle">
                 <ProductIcon name={item.icon} />
               </span>
-              <h3>{item.title}</h3>
+              <h3 className="uppercase">{item.title}</h3>
               <p>{item.description}</p>
             </article>
           ))}

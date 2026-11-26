@@ -24,7 +24,7 @@ export const products = [
       title: "About Our Online Photo Verification Solution",
       paragraphs: [
         "Managing identity verification exercises across large populations can be complex, particularly when organisations need to coordinate participants, standardise requirements and monitor submissions.",
-        "Identiko’s Online Photo Verification Tool provides a centralised digital platform that enables organisations to create and manage photo verification campaigns.",
+        "Identiko’s Online Photo Verification tool provides a centralised digital platform that enables organisations to create and manage photo verification campaigns.",
         "Through configurable campaigns and eligible-user management, administrators can coordinate verification exercises while maintaining visibility over the process.",
         "Designed with organisational requirements in mind, the platform also supports customisable portal interfaces, allowing agencies and corporate clients to incorporate their branding and customise relevant fields.",
         "Whether supporting a government verification exercise or an organisational identity management initiative, the platform provides a structured approach to managing photo verification activities.",
